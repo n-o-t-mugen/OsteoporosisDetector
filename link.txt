@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/stevepython/osteoporosis-knee-xray-dataset/discussion
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9510281/
